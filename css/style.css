@@ -156,7 +156,7 @@ nav button {
 
 header {
   position: relative;
-  top: 1rem;
+  top: 4rem;
   overflow: hidden;
   height: 90vh;
   margin-bottom: 5rem;
@@ -410,14 +410,6 @@ footer ul li a:hover {
 
   .courses__container {
     grid-template-columns: 1fr 1fr;
-  }
-
-  /** ================== faqs ==================  */
-  .faqs__container {
-    grid-template-columns: 1fr;
-  }
-  .faq {
-    padding: 1.5rem;
   }
 
   /** ================== footer ==================  */
