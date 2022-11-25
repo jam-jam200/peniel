@@ -28,7 +28,6 @@ const closeBtn = document.querySelector("#close-menu-btn");
 //! show nav menu
 const openNav = () => {
   menu.style.display = "flex";
-  menu.style.background = "#c4ddff";
   closeBtn.style.display = "inline-block";
   menuBtn.style.display = "none";
 };
